@@ -1,0 +1,3 @@
+C:/Users/some/Desktop/PRG/TreesFromLection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/some/Desktop/PRG/TreesFromLection/cmake-build-debug/CMakeFiles/TreesFromLection.dir
+C:/Users/some/Desktop/PRG/TreesFromLection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
